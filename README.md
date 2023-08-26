@@ -1,2 +1,2 @@
-# washing_machine
+# Washing Machine
 Washing machine in java
